@@ -1,4 +1,4 @@
-# animal_crossing
+# Animal Crossing
 **Analysis of Animal Crossing: New Horizons**
 
 This repository is dedicated to my first documented data analysis project using python.
