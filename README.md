@@ -1,16 +1,39 @@
-# Animal Crossing
-**Analysis of Animal Crossing: New Horizons**
+# Animal Crossing: New Horizons - Analysis
 
-This repository is dedicated to my first documented data analysis project using python.
+## Introduction
+This project dives into the rich world of Animal Crossing: New Horizons, a popular life simulation video game developed by Nintendo. Utilizing data from the TidyTuesday repository, VillagerDB, and Metacritic, this analysis seeks to uncover insights into user and critic reviews, as well as the diverse characteristics of villagers and in-game items.
 
-I chose to analyze data regarding **'Animal Crossing: New Horizons.'** 
+"Animal Crossing: New Horizons" offers players a unique, soothing experience of developing a deserted island into a vibrant community. This analysis aims to understand the game's public reception, the diversity among its characters, and the intricacies of its items and economy.
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons):
+## Objectives
+The main goal of this project are to:
+1. Analyze user and critic reviews for sentiment and themes, understanding public reception.
+2. Explore the diversity of villagers in terms of gender, species, and personality.
+3. Investigate the game's items, focusing on categories, pricing, and crafting complexities.
+4. Examine cultural elements through villagers' birthdays and star signs.
 
-"Animal Crossing: New Horizons is a social simulation game developed and published by Nintendo in 2020 for the Nintendo Switch; it is the fifth main entry in the Animal Crossing series. In New Horizons, the player controls a character who moves to a deserted island after purchasing a getaway package from Tom Nook, accomplishes assigned tasks, and develops the island as they choose. They can gather and craft items, customize the island, and develop it into a community of anthropomorphic animals.Animal Crossing: New Horizons[b] is a social simulation game developed and published by Nintendo in 2020 for the Nintendo Switch; it is the fifth main entry in the Animal Crossing series. In New Horizons, the player controls a character who moves to a deserted island after purchasing a getaway package from Tom Nook, accomplishes assigned tasks, and develops the island as they choose. They can gather and craft items, customize the island, and develop it into a community of anthropomorphic animals."
+## Data Sources
+- [VillagerDB](https://github.com/jefflomacy/villagerdb): Information on villagers and items in the game.
+- [Metacritic](https://www.metacritic.com/game/animal-crossing-new-horizons/critic-reviews/?platform=switch): User and critic reviews, including scores and textual feedback.
 
-While there are many great tools for a data analyst to utilize, python is a very well-rounded tool that helps us with data manipulation, data cleaning, statistical analysis, and visualization. 
+## Analysis Outline
+1. Reviews Analysis: Empolying NLP for sentiment analysis, text mining for themes, and statistical methods to explore review scores and their temporal effects.
+2. Villager/Items Analysis: Demographics studies of villagers, thematic analysis of sayings, economic analysis of item pricing and crafting recipes, and cultural insights through star sign distribution.
 
-I plan on using different tools for the following projects to demonstrate my versatility within the realm of data analysis. 
+## Technologies Used
+- Python, Jupyter Notebook
+- Pandas for data manipulation
+- Matplotlib for visualization
+- NLTK for natuaral language processing
 
-I chose to use Python for my first project because I feel that the programming language aligns with my versatility and seems to be emerging as one of the most popular and desired skills among successful analysts.
+## Installation
+
+
+
+
+
+
+
+  
+
+
