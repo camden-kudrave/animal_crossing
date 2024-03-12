@@ -35,7 +35,12 @@ For those interested in running the notebook locally or exploring the analysis f
 While this project is primarily a personal portfolio piece and not actively seeking contributions, I'm open to ideas and suggestions! If you have feedback or suggestions that could improve the project, feel free to open an issue or contact me directly at ckudrave@gmail.com.
 
 ## Acknowledgements
-- [Tidytuesday](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-05-05/readme.md) for providing the data sources and areas of analysis.
+- This project makes use of data from the TidyTuesday initiative, a weekly social data project organized by the R4DS Online Learning Community. The data and inspiration for this project were drawn from the following source:
+
+    R4DS Online Learning Community (2023). Tidy Tuesday: A weekly social data project.
+  
+    https://github.com/rfordatascience/tidytuesday.
+
 - [VillagerDB](https://github.com/jefflomacy/villagerdb) and [Metacritic](https://www.metacritic.com/game/animal-crossing-new-horizons/critic-reviews/?platform=switch) for providing the data.
 - [Nintendo](https://www.nintendo.com/us/store/products/animal-crossing-new-horizons-switch/) for creating "Animal Crossing: New Horizons".
 
