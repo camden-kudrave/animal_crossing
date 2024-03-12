@@ -26,7 +26,22 @@ The main goal of this project are to:
 - Matplotlib for visualization
 - NLTK for natuaral language processing
 
-## Installation
+## Viewing the Analysis
+This project is contained within a Jupyter Notebook which is viewable directly on GitHub for convenience. Simply navigate to the 'animal_crossing_analysis.ipynb' file in the repository to view the analysis and results.
+
+For those interested in running the notebook locally or exploring the analysis further, ensure you have Jupyter installed and run the notebook within your environment. For more details on working with Jupyter Notebooks, visit the [Jupyter documentation](https://docs.jupyter.org/en/latest/).
+
+## Contributing
+While this project is primarily a personal portfolio piece and not actively seeking contributions, I'm open to ideas and suggestions! If you have feedback or suggestions that could improve the project, feel free to open an issue or contact me directly at ckudrave@gmail.com.
+
+## Acknowledgements
+- [Tidytuesday](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-05-05/readme.md) for providing the data sources and areas of analysis.
+- [VillagerDB](https://github.com/jefflomacy/villagerdb) and [Metacritic](https://www.metacritic.com/game/animal-crossing-new-horizons/critic-reviews/?platform=switch) for providing the data.
+- [Nintendo](https://www.nintendo.com/us/store/products/animal-crossing-new-horizons-switch/) for creating "Animal Crossing: New Horizons".
+
+## Contact Information
+For any queries or discussions, feel free to contact me at ckudrave@gmail.com.
+
 
 
 
