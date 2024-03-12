@@ -44,6 +44,9 @@ While this project is primarily a personal portfolio piece and not actively seek
 - [VillagerDB](https://github.com/jefflomacy/villagerdb) and [Metacritic](https://www.metacritic.com/game/animal-crossing-new-horizons/critic-reviews/?platform=switch) for providing the data.
 - [Nintendo](https://www.nintendo.com/us/store/products/animal-crossing-new-horizons-switch/) for creating "Animal Crossing: New Horizons".
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/camden-kudrave/animal_crossing?tab=MIT-1-ov-file) file for details.
+
 ## Contact Information
 For any queries or discussions, feel free to contact me at ckudrave@gmail.com.
 
